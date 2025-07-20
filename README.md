@@ -2,7 +2,7 @@
 
 Honestly, I believe that the most powerful software is the browser. It’s a fascinating piece of technology with millions of things to learn. I truly enjoy researching these topics, and here I’ve gathered some useful links that are important and will help you understand browsers better.
 
-A curated, step-by-step roadmap for understanding browser internals, the V8 JavaScript engine, JavaScript compilation, and advanced exploitation topics. **Follow the links in order (1–25) for the best learning experience:** the first links are beginner-friendly, while the last are highly advanced. Also, the last step is to implement a simple browser, and this is so exciting. Enjoy it!
+A curated, step-by-step roadmap for understanding browser internals, the V8 JavaScript engine, JavaScript compilation, and advanced exploitation topics. **Follow the links in order for the best learning experience:** the first links are beginner-friendly, while the last are highly advanced. Also, the last step is to implement a simple browser, and this is so exciting. Enjoy it!
 
 If you find this project helpful, please consider giving it a ⭐ star! Your support means a lot and helps others discover these resources.
 
@@ -38,21 +38,21 @@ If you find this project helpful, please consider giving it a ⭐ star! Your sup
 13) [V8 Blog: Scanner](https://v8.dev/blog/scanner)
 14) [V8 Blog: Preparser](https://v8.dev/blog/preparser)
 15) [V8 Blog: Sparkplug](https://v8.dev/blog/sparkplug)
-16) [More curated links (Google Doc)](https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?tab=t.0#heading=h.6jz9dj3bnr8t)
-17) [Sparkplug: V8 Baseline JavaScript Compiler](https://medium.com/@yanguly/sparkplug-v8-baseline-javascript-compiler-758a7bc96e84)
-18) [Chrome Browser Exploitation Part 2](https://jhalon.github.io/chrome-browser-exploitation-2/)
-19) [Chrome Browser Exploitation Part 3](https://jhalon.github.io/chrome-browser-exploitation-3/)
+
+16) [Sparkplug: V8 Baseline JavaScript Compiler](https://medium.com/@yanguly/sparkplug-v8-baseline-javascript-compiler-758a7bc96e84)
+17) [Chrome Browser Exploitation Part 2](https://jhalon.github.io/chrome-browser-exploitation-2/)
+18) [Chrome Browser Exploitation Part 3](https://jhalon.github.io/chrome-browser-exploitation-3/)
 
 ### 🔴 Advanced V8, Optimization, and Exploitation
-20) [V8 Blog: React Cliff](https://v8.dev/blog/react-cliff)
-21) [V8 Blog: V8 Lite](https://v8.dev/blog/v8-lite)
-22) [YouTube: ProgrammingConf - V8 and JS Engines](https://www.youtube.com/watch?v=2PhKvhxYFws&ab_channel=programmingconf)
+19) [V8 Blog: React Cliff](https://v8.dev/blog/react-cliff)
+20) [V8 Blog: V8 Lite](https://v8.dev/blog/v8-lite)
+21) [YouTube: ProgrammingConf - V8 and JS Engines](https://www.youtube.com/watch?v=2PhKvhxYFws&ab_channel=programmingconf)
 
 [![ProgrammingConf - V8 and JS Engines](https://img.youtube.com/vi/2PhKvhxYFws/0.jpg)](https://www.youtube.com/watch?v=2PhKvhxYFws&ab_channel=programmingconf)
 
-23) [More curated links (Google Doc)](https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?tab=t.0#heading=h.6jz9dj3bnr8t)
-24) [JavaScript Bytecode: V8 Ignition Instructions](https://www.alibabacloud.com/blog/javascript-bytecode-v8-ignition-instructions_599188?utm_source=chatgpt.com)
-25) [Browser Engineering (Book)](https://browser.engineering/)
+22) [Ignition: V8 Interpreter (docs)](https://docs.google.com/document/d/11T2CRex9hXxoJwbYqVQ32yIPMh0uouUZLdyrtmMoL44/edit?tab=t.0#heading=h.6jz9dj3bnr8t)
+23) [JavaScript Bytecode: V8 Ignition Instructions](https://www.alibabacloud.com/blog/javascript-bytecode-v8-ignition-instructions_599188?utm_source=chatgpt.com)
+24) [Browser Engineering (Book)](https://browser.engineering/)
 
 ---
 
