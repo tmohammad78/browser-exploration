@@ -94,7 +94,6 @@ What's included:
 - Browser process / multiprocess architecture
 - DevTools frontend
 - PDF renderer, autofill, etc.
-
 ---
 
 > **Tip:** The order of links is intentional—follow them in sequence for the best learning experience, from beginner to advanced. If you have more great resources, feel free to contribute!
