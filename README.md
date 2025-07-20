@@ -96,4 +96,6 @@ What's included:
 - PDF renderer, autofill, etc.
 ---
 
-> **Tip:** The order of links is intentional—follow them in sequence for the best learning experience, from beginner to advanced. If you have more great resources, feel free to contribute!
+## 🤝 Contributing
+
+Contributions are welcome! If you have more great links, corrections, or improvements, feel free to open an issue or submit a pull request. Let's make this resource even better together!
